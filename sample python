@@ -1,6 +1,6 @@
-message = 'Python is fun'
+message = 'Python is full fun'
 
 # print the string message
 print(message)
 
-# Output: Python is fun
+# Output: Python is full fun
